@@ -12,3 +12,6 @@ CodeCollab is designed as a collaborative space for developers to create modules
 - Modules in TypeScript (core application), Socket.io (real-time communication), Docker (containerization), and more
 - MIT, Apache 2.0, GPL, and other licenses
 - Provides a platform for real-time code collaboration among developers
+
+
+TODO:
